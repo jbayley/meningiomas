@@ -3,7 +3,7 @@ R scripts for analysis of NGS meningioma data
 
 README
 
-The following code performs the analysis performed in "Multiple approaches converge on three biological subtypes of meningioma and extract new insights from published studies", Bayley et al. 2021. Additional code (such as that used to generate figures for the study) or data is available at request to james.bayley@bcm.edu.
+The following code performs the analysis performed in "Multiple approaches converge on three biological subtypes of meningioma and extract new insights from published studies", Bayley et al. 2022. Additional code (such as that used to generate figures for the study) or data is available at request to james.bayley@bcm.edu.
 
 Raw data for our cohort is available at GEO:
 Superseries: GSE189673
